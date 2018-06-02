@@ -1,0 +1,6 @@
+d:\users\refused49\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+D:\Users\Refused49\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Live GIF Wallpaper.exe.config
+D:\Users\Refused49\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Live GIF Wallpaper.exe
+D:\Users\Refused49\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Live GIF Wallpaper.pdb
+D:\Users\Refused49\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\Live GIF Wallpaper.exe
+D:\Users\Refused49\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\Live GIF Wallpaper.pdb

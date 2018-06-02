@@ -1,0 +1,14 @@
+D:\Users\Refused49\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Live GIF Wallpaper.exe.config
+D:\Users\Refused49\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Live GIF Wallpaper.exe
+D:\Users\Refused49\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Live GIF Wallpaper.pdb
+D:\Users\Refused49\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\Live GIF Wallpaper.exe
+D:\Users\Refused49\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\Live GIF Wallpaper.pdb
+d:\users\refused49\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\LiveWallpaper.csprojResolveAssemblyReference.cache
+d:\users\refused49\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Interop.WMPLib.dll
+d:\users\refused49\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\AxInterop.WMPLib.dll
+d:\users\refused49\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\Interop.WMPLib.dll
+d:\users\refused49\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\AxInterop.WMPLib.dll
+d:\users\refused49\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\LiveWallpaper.csproj.ResolveComReference.cache
+d:\users\refused49\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\LiveWallpaper.Form1.resources
+d:\users\refused49\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\LiveWallpaper.csproj.GenerateResource.Cache
+d:\users\refused49\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\Interop.MediaPlayer.dll
